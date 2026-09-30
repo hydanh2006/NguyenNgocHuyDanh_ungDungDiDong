@@ -1,0 +1,25 @@
+name: baitap_tuan6
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_contacts_service: ^0.2.0
+  image_picker: ^1.2.3
+  image_pickers: ^2.0.6
+  permission_handler: ^13.0.2
+  video_player: ^2.5.1
+  another_telephony: ^0.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
