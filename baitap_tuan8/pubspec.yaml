@@ -1,0 +1,27 @@
+name: baitap_tuan8
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^22.3.2
+  cupertino_icons: ^2.0.0
+  permission_handler: ^11.3.0
+  intl: ^0.20.3
+  timezone: ^0.11.2
+  path_provider: ^2.1.6
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
